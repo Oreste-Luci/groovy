@@ -1,3 +1,7 @@
+/**
+ * @author Oreste Luci
+ */
+
 def x = "World"
 println "Hello, $x"
 

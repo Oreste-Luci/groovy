@@ -1,3 +1,7 @@
+/**
+ * @author Oreste Luci
+ */
+
 // The power of being able to assign closures to variable is that you can also pass them around to methods. Let’s write a closure (you could of course do the same to class methods) which will expect a closure as a parameter and a string:
 def transform = { str, transformation ->
   transformation(str)

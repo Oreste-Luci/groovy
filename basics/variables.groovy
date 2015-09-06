@@ -1,3 +1,7 @@
+/**
+ * @author Oreste Luci
+ */
+
 def x = 42
 println x.getClass();
 

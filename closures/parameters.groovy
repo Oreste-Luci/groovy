@@ -1,3 +1,7 @@
+/**
+ * @author Oreste Luci
+ */
+
 def power = { int x, int y ->
   return Math.pow(x, y)
 }
