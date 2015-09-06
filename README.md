@@ -2,6 +2,6 @@
 
 Run groovy scripts with:
 
-    $ groovy your-script.groovy
+    $ groovy <your-script>.groovy
 
 
